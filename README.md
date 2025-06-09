@@ -26,7 +26,11 @@ Analyzed and documented the protocol details.
 
 📊 Protocols Identified
 S.No.	Protocol	Purpose	Captured Packets Summary
-1	DNS (Domain Name System)	Resolves domain names to IP addresses.	Standard DNS query and response packets for domains like windows.msn.com, google.com.
-2	TCP (Transmission Control Protocol)	Provides reliable, ordered, and error-checked delivery of data between applications.	TCP handshake packets (SYN, ACK) and data transfer over port 443 for HTTPS communication.
-3	ARP (Address Resolution Protocol)	Maps IP addresses to MAC addresses within a local network.	ARP requests and replies like Who has 192.168.241.207? Tell 192.168.241.38.
+
+1	DNS (Domain Name System)	Resolves domain names to IP addresses.
+Standard DNS query and response packets for domains like windows.msn.com, google.com.
+2	TCP (Transmission Control Protocol)	Provides reliable, ordered, and error-checked delivery of data between applications.	
+TCP handshake packets (SYN, ACK) and data transfer over port 443 for HTTPS communication.
+3	ARP (Address Resolution Protocol)	Maps IP addresses to MAC addresses within a local network.
+ARP requests and replies like Who has 192.168.241.207? Tell 192.168.241.38.
 
